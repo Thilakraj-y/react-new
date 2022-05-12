@@ -63,6 +63,7 @@ function App() {
           <div className="but">
             <button>sumbit</button>
             <button>reset</button>
+            <button>get</button>
 
           </div>
       </div>
